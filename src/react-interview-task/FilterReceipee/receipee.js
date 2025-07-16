@@ -12,7 +12,7 @@ const recipesData = [
     name: "Vegetarian Stir-Fry",
     cuisine: "Asian",
     image: "https://cdn.dummyjson.com/recipe-images/2.webp",
-    rating: 4.7,
+    rating: 4.9,
     reviewCount: 26,
   },
   {
