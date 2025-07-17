@@ -1,0 +1,72 @@
+.conatiner {
+  max-width: 380px;
+  margin: 3rem auto;
+  padding: 2rem 2.5rem;
+  background: #d6e8fa;
+  border-radius: 12px;
+  box-shadow: 0 8px 20px rgba(0, 0, 0, 0.08);
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  color: #222;
+  text-align: center;
+}
+
+.title {
+  font-weight: 700;
+  font-size: 1.9rem;
+  color: #2c3e50;
+  margin-bottom: 1.5rem;
+  letter-spacing: 1.1px;
+}
+
+.label {
+  display: block;
+  text-align: left;
+  font-weight: 600;
+  font-size: 1rem;
+  color: #34495e;
+  margin-bottom: 0.6rem;
+  letter-spacing: 0.7px;
+}
+
+.input-date {
+  width: 90%;
+  padding: 0.6rem 1rem;
+  font-size: 1rem;
+  border: 1.8px solid #bdc3c7;
+  border-radius: 8px;
+  box-shadow: inset 1px 1px 4px rgba(0, 0, 0, 0.05);
+  color: #2c3e50;
+  outline: none;
+  margin-bottom: 1.5rem;
+  font-weight: 500;
+}
+
+.btn-calc {
+  width: 80%;
+  padding: 0.75rem 1rem;
+  font-size: 1.1rem;
+  font-weight: 700;
+  color: #ffffff;
+  background-color: #34495e;
+  border: none;
+  border-radius: 10px;
+  box-shadow: 0 4px 12px rgba(52, 73, 94, 0.5);
+  cursor: pointer;
+  user-select: none;
+}
+
+.error-msg {
+  margin-top: 1.4rem;
+  color: #e74c3c;
+  font-weight: 600;
+  font-size: 0.95rem;
+  letter-spacing: 0.6px;
+}
+
+.age-result {
+  margin-top: 1.4rem;
+  font-weight: 600;
+  font-size: 1.15rem;
+  color: #27ae60;
+  letter-spacing: 0.8px;
+}
